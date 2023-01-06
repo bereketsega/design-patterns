@@ -12,3 +12,8 @@
 *.zip
 *.tar.gz
 *.rar
+*.iml
+
+# Compiled Files #
+out/
+bin/
